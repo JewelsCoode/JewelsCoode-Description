@@ -15,12 +15,12 @@ I'm an entry-level Software Engineer with a passion for creating meaningful and 
 - Photography 
 - Self-Improvement
 
-##### What You'll Discover Here
+#### What You'll Discover Here
 🌐 Codebase: Dive into my coding adventures in the 'src' directory. From web applications to software projects, explore the evolution of my work.
 
 🎨 Designs: Check out the 'designs' folder for a glimpse into my UX/UI design experiments. I believe in creating not just functional but also aesthetically pleasing interfaces.
 
-##### Learning and Improving
+#### Learning and Improving
 📚 Learning Logs: Follow my learning journey in the 'learning-logs' directory. As a self-driven individual, I document my progress and the lessons I've learned along the way.
 
 🌱 Projects in Progress: Witness my ongoing projects, where I apply new skills and experiment with the latest technologies. Your feedback is always appreciated!
@@ -28,7 +28,7 @@ I'm an entry-level Software Engineer with a passion for creating meaningful and 
 #### Get in Touch
 🤝 I'm all ears for collaboration, feedback, or just a friendly chat! Connect with me on LinkedIn and Twitter. Feel free to open issues, suggest improvements, or drop a message.
 
-##### Let's Learn and Build Together
+#### Let's Learn and Build Together
 🚀 Join me on this exciting journey of learning, creating, and pushing boundaries. As I continuously strive for improvement and embrace new challenges, I invite you to explore, contribute, and learn together.
 
  
