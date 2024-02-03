@@ -1,3 +1,8 @@
+#assets
+
+
+
+
 - 👋 Hi, I’m @JewelsCoode
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
